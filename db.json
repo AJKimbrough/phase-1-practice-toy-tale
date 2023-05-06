@@ -47,6 +47,18 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": 1
+    },
+    {
+      "name": "Buzz Lightyear",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-06/220617-lightyear-mjf-1648-dd3fa6.jpg",
+      "likes": 0,
+      "id": 9
+    },
+    {
+      "name": "Hershey",
+      "image": "https://media.istockphoto.com/id/1172250296/fr/vectoriel/superheroine-black-ray-light.jpg?s=612x612&w=0&k=20&c=kY6Lk6OdGVcgJOOn3wSeh_9QDzBBpBNTNkkWbBRZZtQ=",
+      "likes": 0,
+      "id": 10
     }
   ]
 }
